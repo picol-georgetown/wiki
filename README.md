@@ -1,5 +1,15 @@
-# Lab Wiki
+# PICoL Wiki
 
-## For the Psycholinguistics, Information and Computation Lab aka PICoL ("pickle") at Georgetown University
+Welcome to the lab wiki for the Psycholinguistics, Information, and Computational Lab (aka "Pickle") at Georgetown University.
 
-This wiki is a stub ...
+This wiki is currently a stub...
+
+## Onboarding
+
+## Research
+
+## Teaching
+
+## Miscellaneous
+
+## Useful Links
