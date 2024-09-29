@@ -4,7 +4,7 @@ Psycholinguistics, Information, and Computational Lab (PICoL, pronounced "Pickle
 
 ## Lab Meeting Schedule
 
-For fall semester 2024, we are going to kick things off with a reading group. Below are the list of dates/papers:
+Lab meetings are held at 12:45pm on Tuesdays in Poulton 230. For fall semester 2024, we are going to kick things off with a reading group. Below are the list of dates/papers:
 
 | Date    | Paper |
 | -------- | ------- |
