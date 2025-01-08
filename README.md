@@ -4,15 +4,31 @@ Psycholinguistics, Information, and Computational Lab (PICoL, pronounced "Pickle
 
 ## Lab Meeting Schedule
 
-Lab meetings are held at 12:45pm on Tuesdays in Poulton 230. For fall semester 2024, we are going to kick things off with a reading group. Below are the list of dates/papers:
+Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the following table to sign up. If you would like to invite an outside speaker (typically, grad student or postdoc) to present either in person over Zoom, please be in touch with Ethan to arrange the invite!
 
-| Date    | Paper | Meeting Notes | Presenter| 
-| -------- | ------- | ------- | -------- |
-| Oct 2nd  | [Mission: Impossible Language Models](https://aclanthology.org/2024.acl-long.787.pdf), Kallini et al. | [Link to meeting presentation](https://docs.google.com/document/d/1z7NfbKq4ckzMlE2vKsh3V0AJzHUj0YjHmOpMbPwNZpg/edit?usp=sharing) | Ethan |
-| Oct 16th | [An information-theoretic model of Shallow and Deep language processing](https://escholarship.org/content/qt1fd682nd/qt1fd682nd_noSplash_e733707513b8f4be3d407d3f029acd2b.pdf?t=sev3az), Li and Futrell | [Link to Meeting Presentation](https://docs.google.com/presentation/d/1W6Rm39doNRT2ZW51K9eEpa9QfoyH0OPvd5M2V56DQw4/edit?usp=sharing) | Ethan |
-| Oct 30   |  [Modeling rapid language learning by distilling Bayesian priors into artificial neural networks](https://arxiv.org/abs/2305.14701), McCoy and Griffiths  |  | Tatsuya  |
-| Nov 13 | [Linguistic Structure from an Information Bottleneck on Sequential Information Processing](https://arxiv.org/abs/2405.12109), Futrell and Hahn | [Link to Meeting Presentation](https://georgetown1-my.sharepoint.com/:p:/g/personal/jm3743_georgetown_edu/EZR_8-TfrUZLjUGxbk0RnhIB22bsCcVp0iFhMdgX6Ei4iw?e=orGG9H)| Hyun |
-| Dec 4 | [Generating novel experimental hypotheses from language models: A case study on cross-dative generalization](https://arxiv.org/abs/2408.05086), Misra and Kim | | Devika |
+| Date    | Presenter | Notes / Links|
+| -------- | ------- | ------- |
+| January 13  | Welcome Session, Updates and Goals | |
+| January 20  | No Lab Meeting, MLK Day | |
+| January 27  | | |
+| February 3 | | |
+| February 10  | | |
+| February 17  | No Lab Meeting, President's Day | |
+| February 24  | | |
+| February 10  | | |
+| March 3  | No Lab Meeting, Spring Break 🌴 | |
+| March 10  | | |
+| March 17  | | |
+| March 17  | | |
+| March 24  | | |
+| March 17  | | |
+| March 31  | | |
+| April 7  | | |
+| April 14  | | |
+| April 7  | | |
+| April 21  | No Lab Meeting, Easter Break | |
+| April 28  | | |
+
 
 ## Onboarding
 
