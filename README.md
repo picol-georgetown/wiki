@@ -18,9 +18,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
 | March 10  | | |
 | March 17  | | |
-| March 17  | | |
 | March 24  | | |
-| March 17  | | |
 | March 31  | | |
 | April 7  | | |
 | April 14  | | |
