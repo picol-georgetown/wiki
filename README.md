@@ -10,11 +10,11 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | -------- | ------- | ------- |
 | January 13  | Welcome Session, Updates and Goals | |
 | January 20  | No Lab Meeting, MLK Day 🏛️ | |
-| January 27  | | |
+| January 27  |||
 | February 3 | | |
-| February 10  | | |
+| February 10  | Xiulin Yang | innate biases of transformer models|
 | February 17  | No Lab Meeting, President's Day 🇺🇸 | |
-| February 24  | Xiulin Yang | |
+| February 24  | Xiulin Yang | multilingual language modelling |
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
 | March 10  | | |
 | March 17  | | |
