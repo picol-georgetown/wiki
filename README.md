@@ -14,7 +14,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | February 3 | | |
 | February 10  | Xiulin Yang | multilingual impossible language modelling |
 | February 17  | No Lab Meeting, President's Day 🇺🇸 | |
-| February 24  | | |
+| February 24  | Lauren Levine | Research Presentation: GUMBridge|
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
 | March 10  | Xiulin Yang  | |
 | March 17  | | |
