@@ -23,7 +23,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | April 7  | | |
 | April 14  | | |
 | April 21  | No Lab Meeting, Easter Break 🐇 | |
-| April 28  | | |
+| April 28  | | Poulton 320 Booked, alternate venue needed|
 
 
 ## Onboarding
