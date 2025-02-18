@@ -21,7 +21,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | March 24  | Lauren Levine | Research Presentation: GUMBridge |
 | March 31  | | |
 | April 7  | | |
-| April 14  | | |
+| April 14  | Hyun Min | Prosody-syntax interface |
 | April 21  | No Lab Meeting, Easter Break 🐇 | |
 | April 28  | | Poulton 320 Booked, alternate venue needed|
 
