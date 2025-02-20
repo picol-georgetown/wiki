@@ -14,13 +14,13 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | February 3 | Xiulin Yang | multilingual impossible language modelling (Ethan will be remote) |
 | February 10  | | Ethan will have to miss this meeting, sorry :( |
 | February 17  | No Lab Meeting, President's Day 🇺🇸 | |
-| February 24  | Ethan | Reviewing |
+| February 24  | Ethan | Workshop: How to write a good review |
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
 | March 10  | Xiulin Yang  | |
-| March 17  | | |
+| March 17  | | Journal Club for William Schuler's talk |
 | March 24  | Lauren Levine | Research Presentation: GUMBridge |
 | March 31  | | |
-| April 7  | | |
+| April 7  | | Journal Club for Ellie Pavlick's talk |
 | April 14  | Hyun Min | Prosody-syntax interface |
 | April 21  | No Lab Meeting, Easter Break 🐇 | |
 | April 28  | | Poulton 320 Booked, alternate venue needed|
