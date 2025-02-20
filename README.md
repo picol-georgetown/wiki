@@ -14,7 +14,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | February 3 | Xiulin Yang | multilingual impossible language modelling (Ethan will be remote) |
 | February 10  | | Ethan will have to miss this meeting, sorry :( |
 | February 17  | No Lab Meeting, President's Day 🇺🇸 | |
-| February 24  | | |
+| February 24  | Ethan | Reviewing |
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
 | March 10  | Xiulin Yang  | |
 | March 17  | | |
