@@ -20,7 +20,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | March 17  | Devika | Journal Club for William Schuler's talk |
 | March 24  | Lauren Levine | Research Presentation: GUMBridge |
 | March 31  | | Journal Club for Ellie Pavlick's talk|
-| April 7  | | |
+| April 7  | | | Wes Scivetti | Let-Alone 
 | April 14  | Hyun Min | Prosody-syntax interface |
 | April 21  | No Lab Meeting, Easter Break 🐇 | |
 | April 28  | | Poulton 320 Booked, alternate venue needed|
