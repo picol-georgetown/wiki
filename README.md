@@ -16,7 +16,7 @@ Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the 
 | February 17  | No Lab Meeting, President's Day 🇺🇸 | |
 | February 24  | Ethan | [Workshop: How to write a good review](https://docs.google.com/presentation/d/1sOaVhXdVJvDeGqb31VJaGZTYr3iDNXnXem3SW0QwlY0/edit?usp=sharing)_ |
 | March 3  | No Lab Meeting, Spring Break 🌴 | |
-| March 10  |  | |
+| March 10  | Xiulin Yang | Statistical Dependency of Closed-class Items |
 | March 17  | Devika | Journal Club for William Schuler's talk |
 | March 24  | Lauren Levine | Research Presentation: GUMBridge |
 | March 31  | | Journal Club for Ellie Pavlick's talk|
