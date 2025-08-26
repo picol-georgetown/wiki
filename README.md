@@ -11,7 +11,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | September 9  | Welcome Session, Updates and Goals | |
 | September 16  |  | |
 | September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
-| September 30  | | Ethan will be remote |
+| September 30  | | Ethan will be absent |
 | October 7  | Joint CLI Lab Meeting (2:00pm Poulton 230) | |
 | October 14  |  | |
 | October 21  |  | |
