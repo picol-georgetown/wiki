@@ -4,27 +4,24 @@ Psycholinguistics, Information, and Computational Lab (PICoL, pronounced "Pickle
 
 ## Lab Meeting Schedule
 
-Lab meetings will be held Monday, 3:30 - 5:00pm in Poulton 230. Please edit the following table to sign up. If you would like to invite an outside speaker (typically, grad student or postdoc) to present either in person over Zoom, please be in touch with Ethan to arrange the invite!
+Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit the following table to sign up. If you would like to invite an outside speaker (typically, a grad student or postdoc) to present either in person or over Zoom, be in touch with Ethan to arrange the invite!
 
 | Date    | Presenter | Notes / Links|
 | -------- | ------- | ------- |
-| January 13  | Welcome Session, Updates and Goals | |
-| January 20  | No Lab Meeting, MLK Day 🏛️ | |
-| January 27  | Hyun Min | [Remote development on Pycharm](https://github.com/Aatlantise/gu-cli-remote-dev) |
-| February 3 | Xiulin Yang | multilingual impossible language modelling (Ethan will be remote) |
-| February 10  | | Ethan will have to miss this meeting, sorry :( |
-| February 17  | No Lab Meeting, President's Day 🇺🇸 | |
-| February 24  | Ethan | [Workshop: How to write a good review](https://docs.google.com/presentation/d/1sOaVhXdVJvDeGqb31VJaGZTYr3iDNXnXem3SW0QwlY0/edit?usp=sharing)_ |
-| March 3  | No Lab Meeting, Spring Break 🌴 | |
-| March 10  | Xiulin Yang | Statistical Dependency of Closed-class Items |
-| March 17  | Devika | Journal Club for William Schuler's talk |
-| March 24  | Lauren Levine | Research Presentation: GUMBridge |
-| March 31  | Wes Scivetti | Journal Club for Ellie Pavlick's talk|
-| April 7  | Wes Scivetti | Let-Alone 
-| April 14  | Hyun Min | Prosody-syntax interface |
-| April 21  | No Lab Meeting, Easter Break 🐇 | |
-| April 28  | | Poulton 320 Booked, alternate venue needed|
-
+| September 9  | Welcome Session, Updates and Goals | |
+| September 16  |  | |
+| September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
+| September 30  | | Ethan will be remote |
+| October 7  | Joint CLI Lab Meeting (2:00pm Poulton 230) | |
+| October 14  |  | |
+| October 21  |  | |
+| October 28  |  | |
+| November 4  |  | |
+| November 11  | Joint CLI Lab Meeting (2:00pm Poulton 230) | |
+| November 18  |  | |
+| November 25  | Joint CLI Lab Meeting (2:00pm Poulton 230)  | |
+| December 2  |  | |
+| December 9  |  | |
 
 ## Onboarding
 
