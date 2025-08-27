@@ -14,7 +14,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | September 30  | | Ethan will be absent |
 | October 7  | Joint CLI Lab Meeting (2:00pm Poulton 230) | |
 | October 14  |  | |
-| October 21  |  | |
+| October 21  | Talk by (https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw)[Charlotte Pouw] (ILLC)| |
 | October 28  |  | |
 | November 4  |  | |
 | November 11  | Joint CLI Lab Meeting (2:00pm Poulton 230) | |
