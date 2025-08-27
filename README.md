@@ -12,14 +12,14 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | September 16  |  | |
 | September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
 | September 30  | | Ethan will be absent |
-| October 7  | Joint CLI Lab Meeting (2:00pm Poulton 230) <br> Talk by [Sophie Slaats](https://www.sophieslaats.nl/) | |
+| October 7  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Sophie Slaats](https://www.sophieslaats.nl/) | |
 | October 14  |  | |
 | October 21  | Talk by [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw) (ILLC)| |
 | October 28  |  | |
 | November 4  |  | |
-| November 11  | Joint CLI Lab Meeting (2:00pm Poulton 230) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
+| November 11  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
 | November 18  |  | |
-| November 25  | Joint CLI Lab Meeting (2:00pm Poulton 230) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
+| November 25  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
 | December 2  |  | |
 | December 9  |  | |
 
