@@ -12,7 +12,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | September 16  |  | |
 | September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
 | September 30  | | Ethan will be absent |
-| October 7  | Joint CLI Lab Meeting presentation by [Sophie Slaats](https://www.sophieslaats.nl/) (2:00pm Poulton 230) | |
+| October 7  | Joint CLI Lab Meeting (2:00pm Poulton 230) <br> presentation by [Sophie Slaats](https://www.sophieslaats.nl/) | |
 | October 14  |  | |
 | October 21  | Talk by [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw) (ILLC)| |
 | October 28  |  | |
