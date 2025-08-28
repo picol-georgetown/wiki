@@ -18,7 +18,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | October 28  |  | |
 | November 4  |  | |
 | November 11  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
-| November 18  |  | |
+| November 18  | Hyun: Syntax-prosody interface (again) | |
 | November 25  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
 | December 2  |  | |
 | December 9  |  | |
