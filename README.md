@@ -9,7 +9,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | Date    | Presenter | Notes / Links|
 | -------- | ------- | ------- |
 | September 9  | Welcome Session, Updates and Goals | |
-| September 16  | | |
+| September 16  | Dan: Someya et al. <br> + Research/Collaboration Planning | |
 | September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
 | September 30  | | Ethan will be absent |
 | October 7  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Sophie Slaats](https://www.sophieslaats.nl/) | |
