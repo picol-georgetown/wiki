@@ -12,14 +12,14 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | September 16  | Dan: Someya et al. <br> + Research/Collaboration Planning | |
 | September 23  | No Lab Meeting (Rosh Hashanah) 🍎🍯 | |
 | September 30  | | Ethan will be absent |
-| October 7  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Sophie Slaats](https://www.sophieslaats.nl/) | |
+| October 7  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Sophie Slaats](https://www.sophieslaats.nl/) | |
 | October 14  |  | |
 | October 21  | Talk by [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw) (ILLC)| |
-| October 28  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Lee Kezar](https://leekezar.github.io/) | |
+| October 28  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Lee Kezar](https://leekezar.github.io/) | |
 | November 4  | Wes Presentation?  | |
-| November 11  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
+| November 11  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
 | November 18  | Hyun: Syntax-prosody interface (again) | |
-| November 25  | Joint CLI Lab Meeting (3:15pm Poulton 230) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
+| November 25  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
 | December 2  | Talk by [CiJun Gao](https://scholar.google.com/citations?user=5sAG_d8AAAAJ&hl=en) | |
 | December 9  |  | |
 
