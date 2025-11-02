@@ -21,7 +21,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | November 18  | Hyun: Syntax-prosody interface (again) | |
 | November 25  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Michaela Socolof](https://michaelasocolof.github.io/)  | |
 | December 2  | Talk by [CiJun Gao](https://scholar.google.com/citations?user=5sAG_d8AAAAJ&hl=en) | |
-| December 9  |  | |
+| December 9  | Kohei: Towards a theory of spillover | |
 
 ## Onboarding
 
