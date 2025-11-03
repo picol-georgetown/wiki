@@ -16,7 +16,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | October 14  |  | |
 | October 21  | Talk by [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw) (ILLC)| |
 | October 28  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Lee Kezar](https://leekezar.github.io/) | |
-| November 4  | Wes Presentation?  | |
+| November 4  | Xiulin Practice Talk  | |
 | November 11  | Joint CLI Lab Meeting (3:15pm Car Barn 172) <br> Talk by [Kate McCurdy](https://lacoco-lab.github.io/home/authors/kmccurdy/) | |
 | November 18  | Hyun: Syntax-prosody interface (again) | |
 | November 25  | | |
