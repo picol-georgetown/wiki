@@ -22,6 +22,7 @@ Lab meetings will be held Tuesday, 9:45 -- 11:00 am in Poulton 230. Please edit 
 | November 25  | | |
 | December 2  | Talk by [CiJun Gao](https://scholar.google.com/citations?user=5sAG_d8AAAAJ&hl=en) | |
 | December 9  | Kohei: Towards a theory of spillover | |
+| December 16 | [Katherine Howitt](https://linguistics.umd.edu/directory/katherine-howitt) | **Time/Location Change:** Building D, Suite 145 at 1:30pm |
 
 ## Onboarding
 
