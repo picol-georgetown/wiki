@@ -9,9 +9,9 @@ Lab meetings will be held on Thursdays, 3:30 -- 4:45 pm in Poulton 255. Please e
 | Date    | Presenter | Notes / Links|
 | -------- | ------- | ------- |
 | January 15  | Welcome Session, Updates and Goals | |
-| January 22  |  |  |
-| January 29  | Xiulin presentation|  [The Roots of Performance Disparity in XLMs](https://arxiv.org/pdf/2601.07220) |
-| February 5  |  |  |
+| January 22  | Research Updates |  |
+| January 29  | Joint CLI Meeting|   |
+| February 5  | Xiulin presentation  | [The Roots of Performance Disparity in XLMs](https://arxiv.org/pdf/2601.07220) |
 | February 12 |  |  |
 | February 19 |  |  |
 | February 26 |  |  |
