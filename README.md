@@ -28,8 +28,6 @@ Lab meetings will be held on Thursdays, 3:30 -- 4:45 pm in Poulton 255. Please e
 
 ## Research
 
-## Teaching
-
-## Miscellaneous
+  * [Compute resources](https://github.com/picol-georgetown/wiki/blob/main/compute_resources.md)
 
 ## Useful Links
