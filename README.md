@@ -14,10 +14,10 @@ Lab meetings will be held on Thursdays, 3:30 -- 4:45 pm in Poulton 255. Please e
 | February 5  |  |  |
 | February 12 | Xiulin presentation  | [The Roots of Performance Disparity in XLMs](https://arxiv.org/pdf/2601.07220) |
 | February 19 | ~~Wes presentation~~ (postponed)  | [The Greedy and Recursive Search for Morphological Productivity](https://arxiv.org/pdf/2105.05790)  |
-| February 26 |  |  |
+| February 26 | Ethan is at UMD |  |
 | March 5  | Spring Break 🌸 |  |
-| March 12  |  |  |
-| March 19  |  |  |
+| March 12  | Ethan will be absent |  |
+| March 19  | Devika | Islands Update |
 | March 26  |  |  |
 | April 2  | Easter Break 🐰 |  |
 | April 9  |  |  |
