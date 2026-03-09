@@ -18,7 +18,7 @@ Lab meetings will be held on Thursdays, 3:30 -- 4:45 pm in Poulton 255. Please e
 | March 5  | Spring Break 🌸 |  |
 | March 12  | Ethan will be absent |  |
 | March 19  | Devika | Islands Update |
-| March 26  |  |  |
+| March 26  | [Yingshin Chang](https://zdxdsw.github.io/)  | Counting and Inductive Generalization in LMs  |
 | April 2  | Easter Break 🐰 |  |
 | April 9  |  |  |
 | April 16  |  |  |
