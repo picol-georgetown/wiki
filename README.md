@@ -20,9 +20,9 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | November 2  |  |  |
 | November 9  |  |  |
 | November 16  |  |  |
-| November 23  |  |  |
+| November 23  | Guest Presentation: Bastian Bunzeck |  |
 | November 30  |  |  |
-| December 7 |  |  |
+| December 7 | Research Presentation: Wes (contact me if you want this date) |  |
 
 ## Onboarding
 
