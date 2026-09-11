@@ -10,7 +10,7 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | -------- | ------- | ------- |
 | August 31  | Welcome Session, Updates and Goals | |
 | September 8  | Lab AI Policy (at Poulton 250) | [Google Doc](https://docs.google.com/document/d/1CLb8QNSFaQxSQ4Ehi4ALYjnRqei10pSuO4oA7dBGTuc/edit?tab=t.0#heading=h.kxmzt1iivdw2) |
-| September 14  |  |   |
+| September 14  | On Storage Cost: Kohei |   |
 | September 21  |  |  |
 | September 28 |  |  |
 | October 5 |  |  |
