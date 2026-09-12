@@ -17,7 +17,7 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | October 12 |  |  |
 | October 19  |  |  |
 | October 26  |  |  |
-| November 2  |  |  |
+| November 2  | Xiulin Practice Talk |  |
 | November 9  |  |  |
 | November 16  |  |  |
 | November 23  | Guest Presentation: Bastian Bunzeck |  |
