@@ -15,12 +15,12 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | September 28 |  |  |
 | October 5 |  |  |
 | October 12 |  |  |
-| October 19  |  |  |
+| October 19  | Guest Presentation: [Sasha Boguraev](https://sashaboguraev.github.io/) (UT Austin) |  |
 | October 26  |  |  |
 | November 2  | Xiulin Practice Talk |  |
 | November 9  |  |  |
 | November 16  |  |  |
-| November 23  | Guest Presentation: Bastian Bunzeck |  |
+| November 23  | Guest Presentation: [Bastian Bunzeck](https://bbunzeck.github.io/) (Bielefeld University) |  |
 | November 30  |  |  |
 | December 7 | Research Presentation: Wes (contact me if you want this date) |  |
 
