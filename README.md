@@ -12,7 +12,7 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | September 8  | Lab AI Policy (at Poulton 250) | [Google Doc](https://docs.google.com/document/d/1CLb8QNSFaQxSQ4Ehi4ALYjnRqei10pSuO4oA7dBGTuc/edit?tab=t.0#heading=h.kxmzt1iivdw2) |
 | September 14  | On Storage Cost: Kohei |   |
 | September 21  | No Lab Meeting (Yom Kippur) |  |
-| September 28 |  |  |
+| September 28 | Lab AI Policy Discussion | [Google Doc](https://docs.google.com/document/d/17jD8KokAWvYIyGZmurnSJcd_rUklLBvgfoHIQDHYWdU/edit?usp=sharing) |
 | October 5 |  |  |
 | October 12 |  |  |
 | October 19  | Guest Presentation: [Sasha Boguraev](https://sashaboguraev.github.io/) (UT Austin) |  |
