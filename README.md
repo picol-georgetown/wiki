@@ -13,7 +13,7 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | September 14  | On Storage Cost: Kohei |   |
 | September 21  | No Lab Meeting (Yom Kippur) |  |
 | September 28 | Lab AI Policy Discussion | [Google Doc](https://docs.google.com/document/d/17jD8KokAWvYIyGZmurnSJcd_rUklLBvgfoHIQDHYWdU/edit?usp=sharing) |
-| October 5 |  |  |
+| October 5 | Research Updates |  |
 | October 12 | EMNLP Practice Presentations | Kohei, Hyun |
 | October 19  | Guest Presentation: [Sasha Boguraev](https://sashaboguraev.github.io/) (UT Austin) |  |
 | October 26  | Research Presentation: Wes (contact me if you want this date)  |  |
