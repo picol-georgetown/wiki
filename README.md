@@ -21,7 +21,7 @@ Lab meetings will be held on Mondays, 3:30 -- 4:45 pm in Poulton 255. Please edi
 | November 9  |  |  |
 | November 16  |  |  |
 | November 23  | Guest Presentation: [Bastian Bunzeck](https://bbunzeck.github.io/) (Bielefeld University) |  |
-| November 30  |  |  |
+| November 30  | Next feature prediction ideation?? | Hyun |
 | December 7 |  |  |
 
 ## Onboarding
